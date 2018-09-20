@@ -11,7 +11,7 @@
 
 ## Descrição resumida do projeto
 
-O projeto consiste em montar um "Tamagotchi" na plataforma do Arduino.
+O projeto consiste em montar um "Tamagotchi" na plataforma do Arduino, através de códigos disponíveis na internet. O hardware será montado com características decididas pelo grupo.
 
 _______________________________________
 Obs:
