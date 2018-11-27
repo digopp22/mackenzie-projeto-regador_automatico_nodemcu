@@ -1,4 +1,11 @@
 # Funcionalidade:
 
-O sensor de umidade obtém os dados necessários que são enviados à plataforma Blynk. Na interface criada pelo grupo, há dois gráficos: um, mostra qual o nível da umidade e o outro mostra um gráfico com os níveis dela no último tempo.
-Há um botão que, ao ser acionado, liga a bomba remotamente de forma que a água seja utilizada para regar o solo. Através do sensor de umidade e do display LCD, da interface, é possível saber se foi o suficiente a rega ou se ainda é necessária.
+O sensor de umidade obtém os dados necessários que são enviados à plataforma Blynk. Na interface criada pelo grupo, 
+há dois gráficos: um, mostra qual o nível da umidade e o outro mostra um gráfico com os níveis dela no último tempo.
+Há um botão que, ao ser acionado, liga a bomba remotamente de forma que a água seja utilizada para regar o solo. 
+Através do sensor de umidade e do display LCD, da interface, é possível saber se foi o suficiente a rega ou se ainda é necessária.
+
+
+O projeto é totalmente escalável para diferentes situações: desde plantas com necessidades diferentes (no código original, o grupo fez
+um caso geral) até sistemas que necessitam de maior volume de água - e então - a aplicação seria desenvolvida com outra bomba. Há a possibi
+lidade de utilizar outros sensores, como o de temperatura e luminosidade, para que a experiência seja aprimorada.
