@@ -16,6 +16,6 @@ O projeto consiste em um regador que, através de um sensor de umidade do solo, 
 _______________________________________
 Obs:
 
-`src/` deve conter os códigos desenvolvidos
+`src/` contém o código desenvolvido
 
 `doc/` documentação do projeto
