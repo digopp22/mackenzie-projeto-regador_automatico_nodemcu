@@ -1,7 +1,7 @@
-# Tamagotchi para Arduino 2 sem. 2018
+# Regador Automático para NodeMCU 2 sem. 2018
 
 ## Turma 01G
-## Projeto: "Tamagotchi para Arduino"
+## Projeto: "Regador Automático para NodeMCU com Blynk"
 ## Integrantes do grupo:
 
 * Daniel Matrone - TIA: 41826213 - e-mail: 41826213@mackenzista.com.br
@@ -11,7 +11,7 @@
 
 ## Descrição resumida do projeto
 
-O projeto consiste em montar um "Tamagotchi" na plataforma do Arduino, através de códigos disponíveis na internet. O hardware será montado com características decididas pelo grupo.
+O projeto consiste em um regador que, através de um sensor de umidade do solo, obtém dados, os quais são enviados para a plataforma Blynk para a qual o usuário, com um aplicativo, pode interagir e, ao toque de um botão, regar as plantas.
 
 _______________________________________
 Obs:
